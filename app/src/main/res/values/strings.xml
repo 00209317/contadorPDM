@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CartaPresentation</string>
+    <string name="text_entran">entran</string>
+    <string name="text_addn">salen</string>
+    <string name="text_salen">salen</string>
+    <string name="button_add">add</string>
+    <string name="text_addnu">0</string>
+    <string name="text_addnum">0</string>
+</resources>
